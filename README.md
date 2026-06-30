@@ -71,9 +71,17 @@ Passionate about building modern web applications and creating intuitive user ex
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile
-- Portfolio: Add your website
-- Email: your@email.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/latifaaljarrah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Latifa%20Al%20Jarrah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:latifajarrah22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  🌐 Portfolio: Coming Soon
+</p>
 
 ---
 
